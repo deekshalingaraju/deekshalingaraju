@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Deeksha Lingaraju
+#  Hi there, I'm Deeksha Lingaraju
 
 🎓 Business Analytics Graduate from Arizona State University  
 📊 Former Software Developer at Mercedes-Benz R&D India  
@@ -6,13 +6,13 @@
 
 ---
 
-## 🔍 About Me
+##  About Me
 
 I'm a Business Analytics graduate student with over 3 years of professional experience spanning software development, data analytics, and program management. My strengths lie in building scalable solutions that blend engineering with analytics, particularly in high-impact domains like customer retention, product adoption, and business performance optimization.
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 **Languages & Libraries:** Python, SQL (MySQL), Java, Golang, C++, JavaScript  
 **Frameworks & Platforms:** React, Docker, Kubernetes, Jupyter, Tableau  
@@ -22,7 +22,7 @@ I'm a Business Analytics graduate student with over 3 years of professional expe
 
 ---
 
-## 📈 Projects
+##  Projects
 
 ### 🧠 ASU-Room Sense – Object Detection for Space Optimization
 - Built a real-time room occupancy detection system using Python, OpenCV, YOLOv5
@@ -38,7 +38,7 @@ I'm a Business Analytics graduate student with over 3 years of professional expe
 
 ---
 
-## 💼 Experience Highlights
+##  Experience Highlights
 
 ### Software Developer – Mercedes-Benz R&D India
 - Built and launched the **Communication Aggregator Service** integrated in NTG7 infotainment system
@@ -51,7 +51,7 @@ I'm a Business Analytics graduate student with over 3 years of professional expe
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - 🎖️ Lean Six Sigma White Belt (CSSC)
 - 🎖️ Databricks Fundamentals & Generative AI Fundamentals
@@ -59,7 +59,7 @@ I'm a Business Analytics graduate student with over 3 years of professional expe
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 📧 dlingar1@asu.edu  
 🔗 [LinkedIn](https://linkedin.com/in/deeksha-lingaraju)  
